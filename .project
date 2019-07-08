@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ts-tp_extra-abner_anjos</name>
+	<comment>Project ts-tp_extra-abner_anjos created by Buildship.</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
+	</natures>
+</projectDescription>
